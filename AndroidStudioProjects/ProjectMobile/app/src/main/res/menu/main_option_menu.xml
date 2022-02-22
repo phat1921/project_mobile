@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_inprocess"
+        android:title="Inprocess"/>
+    <item
+        android:id="@+id/main_done"
+        android:title="Done"/>
+    <item
+        android:id="@+id/main_trash"
+        android:title="Trash"/>
+</menu>
